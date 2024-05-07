@@ -1,3 +1,4 @@
 Ultra96-2.6.0.tar.gz filter=lfs diff=lfs merge=lfs -text
 Pynq-Z2-2.6.0.tar.gz filter=lfs diff=lfs merge=lfs -text
 Ultra96-2.6.0.wdt.tar.gz filter=lfs diff=lfs merge=lfs -text
+files/pynq_rootfs_arm_v2_6.zip filter=lfs diff=lfs merge=lfs -text
